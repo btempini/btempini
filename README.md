@@ -1,15 +1,14 @@
-<h2> Hey there! I'm Bryan. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Bryan. 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 💼 &nbsp; Front-end web developer.
+- 🔭 &nbsp; I’m currently fine tuning my react skills.
+- 🤔 &nbsp; Always exploring new technologies and fine tuning my skills.
+- 🎓 &nbsp; Gained a full-stack developer certificate from University of Denver.
+- 🌱 &nbsp; Enthusiast of UI/UX and bespoke design.
+- ☕ &nbsp; I beleive, a perfect cup of coffee can solve anything. 
 
 <h3>🛠 Tech Stack</h3>
 
