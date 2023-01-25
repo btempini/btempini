@@ -6,7 +6,7 @@
 - 💼 &nbsp; Front-end web developer.
 - 🔭 &nbsp; I’m currently working on a social media app for developers. [Check it out here!](https://dev-log.herokuapp.com/)
 - 🤔 &nbsp; Always exploring new technologies and fine tuning my skills.
-- 🎓 &nbsp; Gained a full-stack developer certificate from University of Denver.
+- 🎓 &nbsp; Earned a full-stack web developer certificate from University of Denver.
 - 🌱 &nbsp; Enthusiast of UI/UX and bespoke design. [Standard Services Group](https://standardservicesgroup.com)
 - ☕ &nbsp; I beleive, a perfect cup of coffee can solve anything. 
 
@@ -24,12 +24,9 @@
 
 </br>
 
-
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">  
+<p>  
 &nbsp; <a href="https://www.linkedin.com/in/btempini/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:mistatempini@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
