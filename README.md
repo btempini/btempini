@@ -19,8 +19,8 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 <br>
-
-[![Bryans GitHub stats](https://github-readme-stats.vercel.app/api?btempini=anuraghazra)](https://github.com/btempini/github-readme-stats)
+  
+[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/apibtempini=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
 
