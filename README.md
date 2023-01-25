@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Front-end web developer.
-- 🔭 &nbsp; I’m currently working on a social media app for developers. [Check it out here!](https://dev-log.herokuapp.com/)
+- 🔭 &nbsp; I’m currently working on a social media app for developers. <a href="https://dev-log.herokuapp.com/" target="_blank">Check it out here!</a>
 - 🤔 &nbsp; Always exploring new technologies and fine tuning my skills.
 - 🎓 &nbsp; Gained a full-stack developer certificate from University of Denver.
 - 🌱 &nbsp; Enthusiast of UI/UX and bespoke design.
