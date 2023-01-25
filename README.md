@@ -1,5 +1,4 @@
-<h2> Hey there! I'm Bryan. 
-
+<h2> Hey there! I'm Bryan. 👋
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; UX Focused React Developer.
