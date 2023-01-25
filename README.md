@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; React | Javascript | node.js | Express   
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind 
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Tailwind | Materialize UI | jQuery
 - 🛢 &nbsp; MySQL | MongoDB | GraphQL
 - 🔧 &nbsp; Visual Studio Code | Jest | Git | ESLint
 - 🖥 &nbsp; Figma | Webflow
