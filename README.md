@@ -20,7 +20,7 @@
 
 <br>
   
-[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/apibtempini)](https://github.com/btempini/github-readme-stats)
+[![Bryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=btempini)](https://github.com/btempini/github-readme-stats)
 
 </br>
 
