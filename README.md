@@ -19,7 +19,7 @@
 
 <br>
   
-[![Bryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=btempini&theme=merko)](https://github.com/btempini/github-readme-stats)
+[![Bryans's GitHub stats](https://github-readme-stats.vercel.app/api?username=btempini)](https://github.com/btempini/github-readme-stats)
 
 </br>
 
