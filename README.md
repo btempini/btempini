@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Always exploring new technologies and fine tuning my skills.
 - 🎓 &nbsp; Earned a full-stack web developer certificate from University of Denver.
 - 🌱 &nbsp; Enthusiast of UI/UX and bespoke design. [Standard Services Group](https://standardservicesgroup.com)
-- ☕ &nbsp; I beleive, a perfect cup of coffee can solve anything. 
+- ☕ &nbsp; I beleive a perfect cup of coffee can solve anything. 
 
 <h3>🛠 Tech Stack</h3>
 
