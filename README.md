@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Bryan. 
-<img align="right" margin-top="20px" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
