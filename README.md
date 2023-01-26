@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I’m currently working on a social media app for developers. [Check it out here!](https://dev-log.herokuapp.com/)
 - 🤔 &nbsp; Always exploring new technologies and fine tuning my skills.
 - 🎓 &nbsp; Earned a full-stack web developer certificate from University of Denver.
-- 🌱 &nbsp; Enthusiast of UI/UX and bespoke design. [Standard Services Group](https://standardservicesgroup.com)
+- 🌱 &nbsp; Enthusiast of UI/UX and bespoke design. [View my most recent project here!](https://standardservicesgroup.com)
 - ☕ &nbsp; I beleive a perfect cup of coffee can solve anything. 
 
 <h3>🛠 Tech Stack</h3>
