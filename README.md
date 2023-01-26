@@ -18,7 +18,7 @@
 
 <br>
   
-[![Bryans's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=btempini)](https://github.com/btempini/github-readme-stats)
+[![Bryans's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=btempini&theme=gruvbox_light)](https://github.com/btempini/github-readme-stats)
 
 </br>
 
