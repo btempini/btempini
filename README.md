@@ -2,7 +2,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; UX Focused React Developer.
-- 🔭 &nbsp; I’m currently working on a social media app for developers. [Check it out here!](https://dev-log.herokuapp.com/)
+- 🔭 &nbsp; I’m currently working on an app for the equine industry. (Coming Soon!)
 - 🤔 &nbsp; Always exploring new technologies and fine tuning my skills.
 - 🎓 &nbsp; Earned a full-stack web developer certificate from University of Denver.
 - 🌱 &nbsp; Enthusiast of UI/UX and bespoke design. [View my most recent project here!](https://standardservicesgroup.com)
